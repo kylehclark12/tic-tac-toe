@@ -16,8 +16,8 @@ font-size: 30px;
 .parent {
   margin: 50px;
   display: grid;
-  grid-template-columns: 150px 150px 150px;
-  grid-template-rows: 150px 150px 150px;
+  grid-template-columns: 120px 120px 120px;
+  grid-template-rows: 120px 120px 120px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
 }
@@ -25,7 +25,7 @@ font-size: 30px;
 .box {
   background-color: grey;
   color: white;
-  font-size: 140px;
+  font-size: 110px;
   font-family: sans-serif;
   text-align: center;
 }
